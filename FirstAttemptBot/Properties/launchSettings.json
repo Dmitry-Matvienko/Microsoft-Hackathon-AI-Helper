@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "FirstAttemptBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TELEGRAM_BOT_TOKEN": "",
+        "AI_MODE": "local",
+        "AI_API_URL": "",
+        "AI_API_KEY": "",
+        "AI_MODEL": ""
+      }
+    }
+  }
+}
